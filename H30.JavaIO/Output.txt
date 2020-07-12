@@ -1,0 +1,5 @@
+The shortest word: zar
+The longest word: enciclopedie
+First word: anaaa
+Last word: zebra
+Total words: 5
